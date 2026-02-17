@@ -1,11 +1,12 @@
 cff-version: 1.2.0
-message: "If you use this framework, please cite the manuscript."
-title: "Quantifying Individuality: A Mathematical Framework for Measuring Evolutionary Integration Across Biological Systems"
+message: "If you use this framework, please cite it."
+title: "Evolutionary Integration Framework"
 authors:
   - family-names: "Adeyemi"
     given-names: "Sam"
 version: 1.0.0
 date-released: 2026-02-17
+doi: 10.5281/zenodo.18674564
 repository-code: "https://github.com/SamAde1203/evolutionary-integration-framework"
 abstract: "Mathematical framework with five metrics (I, C, M, E, H) for quantifying evolutionary integration across biological systems. Includes analysis of 127 systems demonstrating universal integration threshold κ ≈ 0.73."
 keywords:
@@ -13,6 +14,7 @@ keywords:
   - "individuality"
   - "biological integration"
   - "major transitions"
+  - "major evolutionary transitions"
 license: "MIT"
 preferred-citation:
   type: article
