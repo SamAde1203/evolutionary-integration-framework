@@ -1,0 +1,29 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Data (ignore large files)
+data/raw/*.zip
+data/raw/*.tar.gz
+data/raw/*.rds
+
+# Figures (ignore drafts)
+figures/drafts/
+figures/*.tmp
+
+# Manuscript (ignore old versions)
+manuscript/old_versions/
+manuscript/*.tmp
+*.docx~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
